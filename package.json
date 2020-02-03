@@ -12,6 +12,7 @@
     "@rails/ujs": "^6.0.0",
     "@rails/webpacker": "4.2.2",
     "core-js": "^3.6.4",
+    "html-loader": "^0.5.5",
     "rxjs": "^6.5.4",
     "ts-loader": "^6.2.1",
     "turbolinks": "^5.2.0",
